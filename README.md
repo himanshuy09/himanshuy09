@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Himanshu Yadav
+# 👋 Hey, I'm Himanshu
 
 ### 💻 Developer | BCA Student | Tech Enthusiast | Problem Solver
 
