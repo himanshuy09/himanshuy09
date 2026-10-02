@@ -66,7 +66,7 @@ Currently focused on improving my skills in **JavaScript, React, Firebase, and m
 
 **Tech:** JavaScript • React • Firebase
 
-🔗 [View Repository](https://github.com/)
+🔗 [View Repository](https://github.com/himanshuy09/CampusFixRN)
 
 ---
 
