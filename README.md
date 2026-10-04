@@ -57,7 +57,7 @@ Currently focused on improving my skills in **JavaScript, React, Firebase, and m
 
 **Tech:** HTML • CSS • JavaScript • Firebase • Vercel
 
-🔗 [Visit Project](https://bookvyapar.shop)
+🔗 [Visit Project](https://bookvyapar.vercel.app)
 
 ---
 
